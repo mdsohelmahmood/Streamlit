@@ -1,14 +1,14 @@
 # Streamlit
 
-Overview:
+**Overview:**
 
 The purpose of this repository is to demonstrate the functionality of pyhton's streamlit library which is a powerful library for dashboard creation.
 
-Install:
+**Install:**
 
 pip install streamlit
 
-Fetching data:
+**Fetching data:
 
 For the "Streamlit_sales_data.py" file, the sales data was downloaded from https://www.pk-anexcelexpert.com/design-publish-and-share-a-sales-dashboard-in-power-bi/
 There is an initial dashboard created with Power BI in thiss video (https://www.youtube.com/watch?v=u6NQvaDW6q0) and I have tried to regenrate similar dashboard using the open source python library Streamlit.
