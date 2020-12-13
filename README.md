@@ -17,7 +17,7 @@ There is an initial dashboard created with Power BI in thiss video (https://www.
 
 Once the streamlit is installed, I opened the Pycharm IDE and created new file names "Streamlit_sales_data". To run this file, I went to the terminal and then to the file directory using cd command. Then the following command is executed to run the file in the browser.
 
-streamlit run streamlit_dales_data.py
+streamlit run streamlit_sales_data.py
 
 This is show the dashboard created using the streamlit in the browser.
 
