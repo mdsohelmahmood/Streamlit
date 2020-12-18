@@ -1,5 +1,7 @@
 # Streamlit
 
+Medium: https://mdsohel-mahmood.medium.com/simple-yet-powerful-sales-dashboard-using-streamlit-64bc46381ba4
+
 **Overview:**
 
 The purpose of this repository is to demonstrate the functionality of pyhton's streamlit library which is a powerful library for dashboard creation.
@@ -27,3 +29,4 @@ This is show the dashboard created using the streamlit in the browser.
 The code editting can be done by spliting the display into half, half showing the code and the other half showing the output in the browser. This process can speed up the debugging procedure of the code.
 
 Reference: Stremlit documentation "https://docs.streamlit.io/_/downloads/en/stable/pdf/"
+
