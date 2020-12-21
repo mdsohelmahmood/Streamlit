@@ -1,6 +1,6 @@
 # Streamlit
 
-Medium: https://mdsohel-mahmood.medium.com/simple-yet-powerful-sales-dashboard-using-streamlit-64bc46381ba4
+Medium (Towards Data Science): https://mdsohel-mahmood.medium.com/simple-yet-powerful-sales-dashboard-using-streamlit-64bc46381ba4
 
 Streamlit weekly roundup: https://discuss.streamlit.io/t/weekly-roundup-gravitational-wave-apps-tag-optimizations-climate-change-projects-and-more/8050
 
